@@ -1,0 +1,17 @@
+/*primera practica clse*/
+.fondo{
+    background-color: red ;
+}
+.mitexto{
+    font-size: 88px;
+}
+/*segunda pratica etiqueta*/
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+/* tercera practica id*/
+#titulo {
+    font-size:24; 
+    color:aqua  
+}
